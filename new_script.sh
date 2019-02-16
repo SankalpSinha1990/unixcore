@@ -1,1 +1,1 @@
-sudo ifconfig >> ifconfig.txt
+sudo ifconfig >> ifconfig-log
